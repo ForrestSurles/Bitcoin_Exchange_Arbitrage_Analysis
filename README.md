@@ -10,7 +10,7 @@ Please refer to the notebook to examine the performed analysis and conclusions r
 
 ## Technologies
 
-This `python` based script utilizes the modules found in:<br>
+This Jupyter Lab Notebook has available to it the modules found in:<br>
 > `requirements.txt`
 
 ---
